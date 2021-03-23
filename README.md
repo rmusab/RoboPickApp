@@ -3,4 +3,6 @@ Programs in Python (processing of images and inverse kinematics) and C++ (microc
 
 Published paper can be found here: https://doi.org/10.1109/ICECCO.2015.7416879
 
-The folder also includes the PDF presentations of the talks given at conferences.
+The repository also includes the conference presentations.
+
+![](Video of Working Robotic Arm.mp4)
