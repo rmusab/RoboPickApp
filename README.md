@@ -6,4 +6,4 @@ Published paper can be found here: https://doi.org/10.1109/ICECCO.2015.7416879
 The repository also includes the conference presentations.
 
 [![Result](https://img.youtube.com/vi/ThDxI_rXpAs/0.jpg)](https://www.youtube.com/watch?v=ThDxI_rXpAs "Result")  
-*Video of a Working Robotic Arm*
+*Vid. 1: Robotic arm pick ups colored objects*
