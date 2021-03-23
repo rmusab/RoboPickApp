@@ -4,7 +4,3 @@ Programs in Python (processing of images and inverse kinematics) and C++ (microc
 Published paper can be found here: https://doi.org/10.1109/ICECCO.2015.7416879
 
 The repository also includes the conference presentations.
-
-<video width="320" height="240" controls>
-  <source src="result.mp4" type="video/mp4">
-</video>
